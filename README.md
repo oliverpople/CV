@@ -1,6 +1,6 @@
 ## Oliver Pople
 
-I’m a former Advertising Strategist who has turn my ambitions towards Full Stack Development.
+I’m a former Advertising Strategist who has turned my ambitions towards Full Stack Development.
 
 After graduating in Philosophy I joined Grey London where I planned campaigns viewed by 1billion+ people and won multiple industry awards for my strategic thinking. I now want to use my analytical mind and brand expertise to make things.
 Specifically, I’m looking for a role where I can extend my programming knowledge, collaborate with some nice folks and make wicked consumer-facing products. 
@@ -17,7 +17,7 @@ As someone whose regularly uses both sides of my brain, I’m comfortable mergin
  and [Gillette: Shave Club](https://www.youtube.com/watch?v=M6zlya7cG8Q&t=2s).
  
  #### Calm perseverance  
-I’ve often been told by colleagues that I’m a ‘calming influence’.  This has been useful in advertising agencies where pitches and media deadlines often lead to late nights and tough conversations.  Fortunately, I don’t mind getting uncomfortable so long as there’s a worthy goal.  In fact, I regularly take ice baths and wake up early to be (consensually) strangled by other men during my morning Brazilian jiu-jitsu class. These things are unpleasant but (I like to think) they are worth it in the long term, so I do them anyway. 
+I’ve often been told by colleagues that I’m a ‘calming influence’.  This has been useful in advertising agencies where pitches and media deadlines often lead to late nights and tough conversations.  Fortunately, I don’t mind getting uncomfortable so long as there’s a worthy goal.  In fact, I regularly take ice baths and wake up early to be (consensually) strangled by other men during my morning Brazilian jiu-jitsu class. These things are unpleasant but (I like to think) they are worth it in the long term. 
 
 ## Education
 
