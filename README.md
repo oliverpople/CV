@@ -71,7 +71,7 @@ A highly selective 12-week intensive coding Bootcamp.
 ## Interests
 - [Brazilian Jiu-Jitsu](https://i.imgur.com/rAHS5Jo.jpg) - I even have some medals in a drawer somewhere.
 - [Cooking](https://i.imgur.com/WSPuD12.jpg) - I really meant to say ‘eating’, but cooking usually comes first and sounds better. 
-- [Mushroom picking](https://i.imgur.com/0HbcYGr.jpg) - Risky business, but chanterelles cook in parsley butter is the best.
+- [Mushroom picking](https://i.imgur.com/0HbcYGr.jpg) - Risky business, but chanterelles cooked in parsley butter is the best.
 
 ## Contact
 GitHub: [oliverpople](https://github.com/oliverpople)
