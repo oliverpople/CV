@@ -42,9 +42,9 @@ A highly selective 12-week intensive coding Bootcamp.
 
 #### University of Nottingham (Sept 2008 - July 2012)
 - BA (Hons) Philosophy: 2.1 
-- Included a module in ‘Formal logic’
+- Included a module in ‘Formal logic’.
 - Winner of the Nottingham Student Venture Challenge 2012, where we pitched our idea to a panel of external judges.  My partner and I were awarded a £1000 Entrepreneurial grant to develop our idea further.
-- I also spent a lot of time in my room producing brutal techno with the sequencing software Ableton Live.
+- I also spent a lot of time in my room producing monotonous techno music with the sequencing software *Ableton Live*.
 
 #### Clifton College, Bristol (Sept 2002 – May 2007)
 - A Levels: Economics A, Chemistry A, Biology A. 
@@ -65,14 +65,15 @@ A highly selective 12-week intensive coding Bootcamp.
 **iris Worldwide** (July 2012 to September 2013)
 *Account Executive*
 - Worked directly with clients managing the accounts Barclays Partner Finance (BPF) and PHILIPS Sound.
-- On PHILIPS Sound I developed a new content strategy that was better suited to the platform and successfully improved user engagement. 
-- On BPF’s I overlooked their entire rebranding and helped grew annual revenue by approximately 100%.
+- For PHILIPS Sound I developed a new content strategy that was better suited to the platform and successfully improved user engagement. 
+- For BPF’s I overlooked their entire rebranding and helped grew annual revenue by approximately 100%.
 
 ## Interests
-- Brazilian Jiu-Jitsu - I even have some medals in a drawer somewhere.  [link bjj photo]
-- Cooking - I really meant to say ‘eating’, but cooking usually comes first and sounds better. [link cooking photo]
-- Mushroom picking - Risky business, but chanterelles in parsley butter is the best. [link mushrooming photo]
+- [Brazilian Jiu-Jitsu](https://i.imgur.com/rAHS5Jo.jpg) - I even have some medals in a drawer somewhere.
+- [Cooking](https://i.imgur.com/WSPuD12.jpg) - I really meant to say ‘eating’, but cooking usually comes first and sounds better. 
+- [Mushroom picking](https://i.imgur.com/0HbcYGr.jpg) - Risky business, but chanterelles cook in parsley butter is the best.
 
 ## Contact
 GitHub: [oliverpople](https://github.com/oliverpople)
+
 Code wars: [oliverpople](http://www.codewars.com/users/oliverpople)
