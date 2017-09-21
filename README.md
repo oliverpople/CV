@@ -1,50 +1,78 @@
-## Your Name
+## Oliver Pople
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what you're looking for: what you would ideally be doing, with whom and in what environment.
+I’m a former Advertising Strategist who has turn my ambitions towards Full Stack Development.
+
+After graduating in Philosophy I joined Grey London where I planned campaigns viewed by 1billion+ people and won multiple industry awards for my strategic thinking. I now want to use my analytical mind and brand expertise to make things.
+Specifically, I’m looking for a role where I can extend my programming knowledge, collaborate with some nice folks and make wicked consumer-facing products. 
 
 ## Skills
 
-#### This Skill
+#### Empathy 
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
+From paired programming to moderating focus groups I take pride in my ability to understand the needs of others.  Whilst working at Grey London I studied all kinds of people as I conducted consumer research. One such example was during a pitch for Sixt rent-a-car where I was responsible for all qualitative and quantitive data. By talking to consumers and challenging common preconceptions I uncovered a unique insight that helped us win the pitch and execute a very successful campaign soon after. Details of how I unearthed this insight are covered in my [award-winning APG paper](http://www.apg.org.uk/apgawards-2017) (in association with Google). This paper was mentioned in the Guardian and will be published later this year. 
 
-- Experience
-- Achievements
-- Evidence
+#### Creative + Strategy
 
-#### Another Skill
-
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
-
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+As someone whose regularly uses both sides of my brain, I’m comfortable merging creative flare with rational thinking.  One of my key roles at Grey London was to deliver emotionally relevant campaigns that hit the commercial objectives of big clients such as, Gillette and Symantec.  This role required me to have a deep understanding of traditionally “right-sided” subjects like culture and human psychologically, as well as “left-sided” subjects such as sales and media planning.  Some noteworthy campaigns include: [Gillette: The Honest Player](https://www.youtube.com/watch?v=UzX0Er9Lguk)
+ and [Gillette: Shave Club](https://www.youtube.com/watch?v=M6zlya7cG8Q&t=2s).
+ 
+ #### Calm perseverance  
+I’ve often been told by colleagues that I’m a ‘calming influence’.  This has been useful in advertising agencies where pitches and media deadlines often lead to late nights and tough conversations.  Fortunately, I don’t mind getting uncomfortable so long as there’s a worthy goal.  In fact, I regularly take ice baths and wake up early to be (consensually) strangled by other men during my morning Brazilian jiu-jitsu class. These things are unpleasant but (I like to think) they are worth it in the long term, so I do them anyway. 
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (September 2017 to December 2017)
 
-- Curious and passionate about code. [PROVIDE EVIDENCE]
-- Fast, independent learner [PROVIDE EVIDENCE]
-- Great collaborator [PROVIDE EVIDENCE]
-
-- OOP, TDD, MVC, DDD
+A highly selective 12-week intensive coding Bootcamp.
+- Focus on Test Driven Development, with an emphasis on pair programming and working in an agile way.
+- Object-oriented programming & software design
+- Full stack web development
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Design Kit: in partnership with IDEO.ORG (April 2016 – May 2016) 
+- The Course for Human-Centered Design: Certified
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+#### Institute of Practitioners in Advertising (Feb 2015)
+- IPA Foundation Certificate: Distinction 
 
-#### Any other qualifications
+#### Marketing Agencies Association (MAA) (Feb 2013 – Sept 2013)
+- MAA Diploma in Integrated Marketing 2013: Distinction 
+
+#### University of Nottingham (Sept 2008 - July 2012)
+- BA (Hons) Philosophy: 2.1 
+- Included a module in ‘Formal logic’
+- Winner of the Nottingham Student Venture Challenge 2012, where we pitched our idea to a panel of external judges.  My partner and I were awarded a £1000 Entrepreneurial grant to develop our idea further.
+- I also spent a lot of time in my room producing brutal techno with the sequencing software Ableton Live.
+
+#### Clifton College, Bristol (Sept 2002 – May 2007)
+- A Levels: Economics A, Chemistry A, Biology A. 
+
 
 ## Experience
 
-**Company Name** (start_date to end_date)    
-*Your job title*  
-**Company Name** (start_date to end_date)   
-*Your job title*  
+**Grey London** (April 2014 to August 2017)
+*Account Planner* 
+- Developing integrated brand strategies for Gillette Global, Gillette UK and Sixt UK. 
+- Responsible for creating and articulating strategic direction to senior clients. 
+- Commissioning and/or moderating qualitative and quantitative consumer research. 
+- Collaborating with creative teams to develop work for TV, OOH, print, radio, online and social media. 
+- Measuring the effectiveness of campaigns through the line. 
+- Writing several award-winning papers on campaign strategy and effectiveness for Sixt UK.   Including, an APG Award, Silver IPA Award and Silver UK Effie. 
+- Working on several winning new Business pitches including Jacobs crackers and Emirates Airlines.
+
+**iris Worldwide** (July 2012 to September 2013)
+*Account Executive*
+- Worked directly with clients managing the accounts Barclays Partner Finance (BPF) and PHILIPS Sound.
+- On PHILIPS Sound I developed a new content strategy that was better suited to the platform and successfully improved user engagement. 
+- On BPF’s I overlooked their entire rebranding and helped grew annual revenue by approximately 100%.
+
+## Interests
+- Brazilian Jiu-Jitsu - I even have some medals in a drawer somewhere.  [link bjj photo]
+- Cooking - I really meant to say ‘eating’, but cooking usually comes first and sounds better. [link cooking photo]
+- Mushroom picking - Risky business, but chanterelles in parsley butter is the best. [link mushrooming photo]
+
+## Contact
+GitHub: [oliverpople](https://github.com/oliverpople)
+Code wars: [oliverpople](http://www.codewars.com/users/oliverpople)
