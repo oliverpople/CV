@@ -9,7 +9,7 @@ Specifically, I’m looking for a role where I can extend my programming knowled
 
 #### Empathy 
 
-From paired programming to moderating focus groups I take pride in my ability to understand the needs of others.  Whilst working at Grey London I studied all kinds of people as I conducted consumer research. One such example was during a pitch for Sixt rent-a-car where I was responsible for all qualitative and quantitive data. By talking to consumers and challenging common preconceptions I uncovered a unique insight that helped us win the pitch and execute a very successful campaign soon after. Details of how I unearthed this insight are covered in my [award-winning APG paper](http://www.apg.org.uk/apgawards-2017) (in association with Google). This paper was mentioned in the Guardian Newspaper and will be published in the [APG 2017 Creative Strategy Awards.](http://www.apg.org.uk/apg-bookstore). 
+From paired programming to moderating focus groups I take pride in my ability to understand the needs of others.  Whilst working at Grey London I studied all kinds of people as I conducted consumer research. One such example was during a pitch for Sixt rent-a-car where I was responsible for all qualitative and quantitive data. By talking to consumers and challenging common preconceptions I uncovered a unique insight that helped us win the pitch and execute a very successful campaign soon after. Details of how I unearthed this insight are covered in my [award-winning APG paper](http://www.apg.org.uk/apgawards-2017) (in association with Google). This paper was mentioned in the Guardian Newspaper and will be published in the [APG 2017 Creative Strategy Awards.](http://www.apg.org.uk/apg-bookstore)
 
 #### Creative + Strategy
 
