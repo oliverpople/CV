@@ -28,8 +28,8 @@ A highly selective 12-week intensive coding Bootcamp.
 - Object-oriented programming & software design
 - Full stack web development
 - Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+- Ruby, Rails, JavaScript, node.js, Swift
+- RSpec, Jasmine, zombie.js
 
 #### Design Kit: in partnership with IDEO.ORG (April 2016 – May 2016) 
 - The Course for Human-Centered Design: Certified
