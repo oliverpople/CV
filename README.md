@@ -44,7 +44,7 @@ A highly selective 12-week intensive coding Bootcamp with a focus on:
 - Agile/XP
 - OOP
 - Ruby, Rails, JavaScript, node.js
-- RSpec, Jasmine, zombie.js
+- RSpec, Jasmine
 
 **University of Nottingham | (Sept 2008 - July 2012)**
 - BA (Hons) Philosophy: 2.1 
