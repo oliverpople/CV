@@ -78,6 +78,7 @@ As someone whose regularly uses both sides of my brain, I’m comfortable mergin
  and [Gillette: Shave Club](https://www.youtube.com/watch?v=M6zlya7cG8Q&t=2s).
  
  **Calm perseverance** 
+ 
 I’ve often been told by colleagues that I’m a ‘calming influence’.  This has been useful in advertising agencies where pitches and media deadlines often lead to late nights and tough conversations.  Fortunately, I don’t mind getting uncomfortable so long as there’s a worthy goal.  In fact, I regularly take ice baths and wake up early to be (consensually) strangled by other men during my morning Brazilian jiu-jitsu class. These things are unpleasant but (I like to think) they are worth it in the long term. 
 
 ## Interests
