@@ -18,7 +18,7 @@ Specifically, I’m looking for a role where I can extend my programming knowled
 
 ## Employment
 
-**Grey London** (April 2014 to August 2017)
+**Grey London | (Apr 2014 - Aug 2017)**
 *Account Planner* 
 - Developing integrated brand strategies for Gillette Global, Gillette UK and Sixt UK. 
 - Responsible for creating and articulating strategic direction to senior clients. 
@@ -28,7 +28,7 @@ Specifically, I’m looking for a role where I can extend my programming knowled
 - Writing several award-winning papers on campaign strategy and effectiveness for Sixt UK.   Including, an APG Award, Silver IPA Award and Silver UK Effie. 
 - Working on several winning new Business pitches including Jacobs crackers and Emirates Airlines.
 
-**iris Worldwide** (July 2012 to September 2013)
+**iris Worldwide | (Jul 2012 - Sept 2013)**
 *Account Executive*
 - Worked directly with clients managing the accounts Barclays Partner Finance (BPF) and PHILIPS Sound.
 - For PHILIPS Sound I developed a new content strategy that was better suited to the platform and successfully improved user engagement. 
@@ -36,7 +36,7 @@ Specifically, I’m looking for a role where I can extend my programming knowled
 
 ## Education
 
-#### Makers Academy (September 2017 to December 2017)
+**Makers Academy | (Sept 2017 - Dec 2017)**
 
 A highly selective 12-week intensive coding Bootcamp with a focus on:
 - TDD
@@ -46,24 +46,24 @@ A highly selective 12-week intensive coding Bootcamp with a focus on:
 - Ruby, Rails, JavaScript, node.js
 - RSpec, Jasmine, zombie.js
 
-#### University of Nottingham (Sept 2008 - July 2012)
+**University of Nottingham | (Sept 2008 - July 2012)**
 - BA (Hons) Philosophy: 2.1 
 - Included a module in ‘Formal logic’.
 - Winner of the Nottingham Student Venture Challenge 2012, where we pitched our idea to a panel of external judges.  My partner and I were awarded a £1000 Entrepreneurial grant to develop our idea further.
 - I also spent a lot of time in my room producing monotonous techno music with the sequencing software *Ableton Live*.
 
-#### Clifton College, Bristol (Sept 2002 – May 2007)
+**Clifton College, Bristol | (Sept 2002 – May 2007)**
 - A Levels: Economics A, Chemistry A, Biology A. 
 
 ## Qualifications
 
-#### Design Kit: in partnership with IDEO.ORG (April 2016 – May 2016) 
+**Design Kit: in partnership with IDEO.ORG | (April 2016 – May 2016)**
 - The Course for Human-Centered Design: Certified
 
-#### Institute of Practitioners in Advertising (Feb 2015)
+**Institute of Practitioners in Advertising | (Feb 2015)**
 - IPA Foundation Certificate: Distinction 
 
-#### Marketing Agencies Association (MAA) (Feb 2013 – Sept 2013)
+**Marketing Agencies Association (MAA) | (Feb 2013 – Sept 2013)**
 - MAA Diploma in Integrated Marketing 2013: Distinction 
 
 ## Skills
