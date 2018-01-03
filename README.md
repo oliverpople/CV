@@ -36,7 +36,7 @@ Specifically, I’m looking for a role where I can extend my programming knowled
 
 ## Education
 
-**Makers Academy | (Sept 2017 - Dec 2017)**
+**[Makers Academy](http://www.makersacademy.com/) | (Sept 2017 - Dec 2017)**
 
 A highly selective 12-week intensive coding Bootcamp with a focus on:
 - TDD
