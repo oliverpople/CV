@@ -18,8 +18,8 @@ Specifically, I’m looking for a role where I can extend my programming knowled
 
 ## Employment
 
-**Grey London | (Apr 2014 - Aug 2017)**
-*Account Planner* 
+**Account Planner, [Grey London](http://grey.com/london) | (Apr 2014 - Aug 2017)**
+
 - Developing integrated brand strategies for Gillette Global, Gillette UK and Sixt UK. 
 - Responsible for creating and articulating strategic direction to senior clients. 
 - Commissioning and/or moderating qualitative and quantitative consumer research. 
@@ -28,8 +28,8 @@ Specifically, I’m looking for a role where I can extend my programming knowled
 - Writing several award-winning papers on campaign strategy and effectiveness for Sixt UK.   Including, an APG Award, Silver IPA Award and Silver UK Effie. 
 - Working on several winning new Business pitches including Jacobs crackers and Emirates Airlines.
 
-**iris Worldwide | (Jul 2012 - Sept 2013)**
-*Account Executive*
+**Account Executive, [iris Worldwide](http://www.iris-worldwide.com/) | (Jul 2012 - Sept 2013)**
+
 - Worked directly with clients managing the accounts Barclays Partner Finance (BPF) and PHILIPS Sound.
 - For PHILIPS Sound I developed a new content strategy that was better suited to the platform and successfully improved user engagement. 
 - For BPF’s I overlooked their entire rebranding and helped grew annual revenue by approximately 100%.
