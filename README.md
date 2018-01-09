@@ -2,7 +2,7 @@
 
 #### • [LinkedIn](https://www.linkedin.com/in/oliverpople/)
 
-I’m a former Advertising Strategist who has turned my ambitions towards Full Stack Development.
+I’m a former Advertising Strategist who has turned my ambitions towards Software Development.
 
 After graduating in Philosophy I joined Grey London where I planned campaigns viewed by 1billion+ people and won multiple industry awards for my strategic thinking. I now want to use my analytical mind and brand expertise to make things.
 Specifically, I’m looking for a role where I can extend my programming knowledge, collaborate with some nice folks and make wicked consumer-facing products. 
