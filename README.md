@@ -1,6 +1,6 @@
 ## Oliver Pople
 
-#### • [LinkedIn](https://www.linkedin.com/in/oliverpople/)
+#### • [LinkedIn](https://www.linkedin.com/in/oliverpople/) #### • [PersonalSite](https://www.oliverpople.com/)
 
 I’m a former Advertising Strategist who has turned my ambitions towards Software Development.
 
@@ -13,8 +13,9 @@ Specifically, I’m looking for a role where I can extend my programming knowled
 
 | GitHub Repo | Description | Tech | Product |
 | ----------- | ----------- | ---- | ---- |
+| [Personal Site](https://www.oliverpople.com/) | A web app with which to present myself online | React.js, Node.js, JQuery | | [Link](https://github.com/oliverpople/PersonalSite) |
 | [Whisper](https://github.com/lucyborthwick/Whisper) | An encrypted iOS messaging app | Swift, Ruby, XCTest, Firebase, Sinatra, RSpec, RSpec | [Presentation (from 22:38)](https://www.facebook.com/MakersAcademy/videos/vb.367457470014643/1525253554235023/?type=2&theater) |
-| [Yelp Clone](https://github.com/cdunham1989/yelp-clone) | Clone of popular restaurant review site | Ruby, Rails, RSpec, Capybara | [Link](https://github.com/cdunham1989/yelp-clone) |
+| [Yelp Clone](https://github.com/cdunham1989/yelp-clone) | Clone of popular restaurant review site | Ruby, Rails, RSpec, Capybara | [Link](https://github.com/cdunham1989/yelp-clone) | 
 
 ## Skills
 
