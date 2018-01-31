@@ -11,9 +11,9 @@ Specifically, I’m looking for a role where I can extend my programming knowled
 
 ## Projects
 
-| GitHub Repo | Description | Tech | Product |
+| GitHub Repo | Description | Tech | Output |
 | ----------- | ----------- | ---- | ---- |
-| [Personal Site](https://www.oliverpople.com/) | A web app with which to present myself online | React.js, Node.js, JQuery |  [Link](https://github.com/oliverpople/PersonalSite) |
+| [Personal Site](https://github.com/oliverpople/PersonalSite) | A web app with which to present myself online | React.js, Node.js, JQuery | [Link](https://www.oliverpople.com/) |
 | [Whisper](https://github.com/lucyborthwick/Whisper) | An encrypted iOS messaging app | Swift, Ruby, XCTest, Firebase, Sinatra, RSpec, RSpec | [Presentation (from 22:38)](https://www.facebook.com/MakersAcademy/videos/vb.367457470014643/1525253554235023/?type=2&theater) |
 | [Yelp Clone](https://github.com/cdunham1989/yelp-clone) | Clone of popular restaurant review site | Ruby, Rails, RSpec, Capybara | [Link](https://github.com/cdunham1989/yelp-clone) | 
 
