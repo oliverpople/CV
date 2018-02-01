@@ -1,6 +1,6 @@
 ## Oliver Pople
 
-#### • [LinkedIn](https://www.linkedin.com/in/oliverpople/) • [PersonalSite](https://www.oliverpople.com/)
+#### • [LinkedIn](https://www.linkedin.com/in/oliverpople/) • [PersonalSite](http://www.oliverpople.com/)
 
 I’m a former Advertising Strategist who has turned my ambitions towards Software Development.
 
