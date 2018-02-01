@@ -56,6 +56,8 @@ I’ve often been told by colleagues that I’m a ‘calming influence’.  This
 
 A highly selective 12-week intensive coding Bootcamp with a focus on:
 - TDD
+- MVC
+- SOLID
 - Pair programming
 - Agile/XP
 - OOP
